@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/python%20gif.gif" alt="DBMS Repository" style="max-width: 100%; height: auto; width: 400px;">
+    <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/dbms.gif" alt="DBMS Repository" style="max-width: 100%; height: auto; width: 400px;">
 </p>
 
 <h1 align="center">🗄️ Database Management System (DBMS) 📊</h1>
@@ -25,10 +25,16 @@ This repository contains **DBMS notes, SQL queries, ER diagrams, normalization c
 ---
 
 ## **📜 Topics Covered**
-| #  | Topic                              | Notes 📖 | Code Examples 💻 |
+
+| #  | Excercise Name                              | Notes 📖 | Code Examples 💻 |
 |----|----------------------------------|---------|-----------------|
-| 1  | Introduction to DBMS             | ✅      | ✅              |
-| 2  | ER Model & Relational Model      | ✅      | ✅              |
+| 1  | How to Create a Database        | ✅      | ✅              |
+<!-- | 2  | ER Model & Relational Model      | ✅      | ✅              | -->
+## **📜 Practical Experiments**
+| #  | Excercise Name                              | Notes 📖 | Code Examples 💻 |
+|----|----------------------------------|---------|-----------------|
+| 1  | Create a Table and Insert 10 records         | ✅      | ✅              |
+<!-- | 2  | ER Model & Relational Model      | ✅      | ✅              | -->
 
 
 *(More topics coming soon! 🚀)*
