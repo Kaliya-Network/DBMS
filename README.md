@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/dbms.gif" alt="DBMS Repository" style="max-width: 100%; height: auto; width: 400px;">
+    <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/dbms.gif" alt="DBMS Repository" style="max-width: 100%; height: auto; width: 350px;">
 </p>
 
 <h1 align="center">🗄️ Database Management System (DBMS) 📊</h1>
@@ -11,7 +11,7 @@
 ---
 
 ## **📖 About This Repository**
-This repository contains **DBMS notes, SQL queries, ER diagrams, normalization concepts, and implementation codes** for learning **Database Management System** as part of **B.Tech CSE** studies. It is specifically maintained for **personal and educational use** by **Tanim & friends**.
+This repository contains **DBMS notes, SQL queries, ER diagrams, normalization concepts, and implementation codes** for learning **Database Management System** as part of **B.Tech CSE 4th Semester (Section - C)** studies. It is specifically maintained for **personal, experimental and educational use** by **Arif & Tanim & adtU friends❤️‍🩹**.
 
 ---
 
