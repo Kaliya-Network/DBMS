@@ -26,15 +26,15 @@ This repository contains **DBMS notes, SQL queries, ER diagrams, normalization c
 
 ## **📜 Topics Covered**
 
-| #  | Excercise Name                              | Notes 📖 | Code Examples 💻 |
+| #  | Excercise Name| Notes 📖 | Source Code 🧑‍💻 | 
 |----|----------------------------------|---------|-----------------|
-| 1  | How to Create a Database        | ✅      | ✅              |
-<!-- | 2  | ER Model & Relational Model      | ✅      | ✅              | -->
+| 1  | How to Create a Database        | [View Notes](https://github.com/Kaliya-Network/DBMS/blob/main/Class%201%3A%20How%20to%20Create%20Database/Class%201%3A%20How%20to%20Create%20Database.md)      |  [View Code](https://github.com/Kaliya-Network/DBMS/blob/main/Class%201%3A%20How%20to%20Create%20Database/class1_code.sql)
+<!-- | 2  | ER Model & Relational Model      | [View Notes]()       | [View Code]()              | -->
 ## **📜 Practical Experiments**
-| #  | Experiment Name                              | Notes 📖 | Code Examples 💻 |
+| #  | Experiment Name | Notes 📖 |  Source Code 🧑‍💻 | 
 |----|----------------------------------|---------|-----------------|
-| 1  | Create a Table and Insert 10 records         | ✅      | ✅              |
-<!-- | 2  | ER Model & Relational Model      | ✅      | ✅              | -->
+| 1  | Create a Table and Insert 10 records         | [View Notes](https://github.com/Kaliya-Network/DBMS/blob/main/Exp%201%3A%20Create%20a%20Table%20and%20Insert%2010%20records/Exp%201%3A%20Create%20a%20Table%20and%20Insert%2010%20records.md)        | [View Code](https://github.com/Kaliya-Network/DBMS/blob/main/Exp%201%3A%20Create%20a%20Table%20and%20Insert%2010%20records/Exp1Code1.sql)
+<!-- | 2  | ER Model & Relational Model      | [View Notes]()      | [View Code]() -->
 
 
 *(More topics coming soon! 🚀)*
