@@ -31,7 +31,7 @@ This repository contains **DBMS notes, SQL queries, ER diagrams, normalization c
 | 1  | How to Create a Database        | ✅      | ✅              |
 <!-- | 2  | ER Model & Relational Model      | ✅      | ✅              | -->
 ## **📜 Practical Experiments**
-| #  | Excercise Name                              | Notes 📖 | Code Examples 💻 |
+| #  | Experiment Name                              | Notes 📖 | Code Examples 💻 |
 |----|----------------------------------|---------|-----------------|
 | 1  | Create a Table and Insert 10 records         | ✅      | ✅              |
 <!-- | 2  | ER Model & Relational Model      | ✅      | ✅              | -->
