@@ -23,17 +23,17 @@ This repository contains **DBMS notes, SQL queries, ER diagrams, normalization c
 ✅ **Mini Projects & Assignments** 📑  
 
 ---
-## **📜 Practical Experiments**
+## **📜 Practical Experiments** (You have to Write it in Your Practical Lab Copy)
 | #  | Experiment Name | Notes 📖 |  Source Code 🧑‍💻 | Date 📅 |
 |----|----------------------------------|---------|-----------------|-----------------|
 | 1  | Create a Table and Insert 10 records         | [View Notes](https://github.com/Kaliya-Network/DBMS/blob/main/Exp%201%3A%20Create%20a%20Table%20and%20Insert%2010%20records/Exp%201%3A%20Create%20a%20Table%20and%20Insert%2010%20records.md)        | [View Code](https://github.com/Kaliya-Network/DBMS/blob/main/Exp%201%3A%20Create%20a%20Table%20and%20Insert%2010%20records/Exp1Code1.sql) | 24 Feb 2025 |
 <!-- | 2  | ER Model & Relational Model      | [View Notes]()      | [View Code]() |  | -->
 
-## **📜 Topics Covered**
-
+## **📜 Topics Covered** (This is not to write in Practical Lab Copy)
 | #  | Excercise Name| Notes 📖 | Source Code 🧑‍💻 | Date 📅 |
 |----|----------------------------------|---------|-----------------|-----------------|
 | 1  | How to Create a Database        | [View Notes](https://github.com/Kaliya-Network/DBMS/blob/main/Class%201%3A%20How%20to%20Create%20Database/Class%201%3A%20How%20to%20Create%20Database.md)      |  [View Code](https://github.com/Kaliya-Network/DBMS/blob/main/Class%201%3A%20How%20to%20Create%20Database/class1_code.sql) | 10 Feb 2025 |
+| 2  | Create a Table and Insert 10 records         | [View Notes](https://github.com/Kaliya-Network/DBMS/blob/main/Exp%201%3A%20Create%20a%20Table%20and%20Insert%2010%20records/Exp%201%3A%20Create%20a%20Table%20and%20Insert%2010%20records.md)        | [View Code](https://github.com/Kaliya-Network/DBMS/blob/main/Exp%201%3A%20Create%20a%20Table%20and%20Insert%2010%20records/Exp1Code1.sql) | 24 Feb 2025 |
 <!-- | 2  | ER Model & Relational Model      | [View Notes]()       | [View Code]()              |  |-->
 
 
