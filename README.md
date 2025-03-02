@@ -11,7 +11,7 @@
 ---
 
 ## **📖 About This Repository**
-This repository contains **DBMS notes, SQL queries, ER diagrams, normalization concepts, and implementation codes** for learning **Database Management System** as part of **B.Tech CSE 4th Semester (Section - C)** studies. It is specifically maintained for **personal, experimental and educational use** by **Arif & [Tanim](https://github.com/CodeWithTanim)   & adtU friends❤️‍🩹**.
+This repository contains **DBMS notes, SQL queries, ER diagrams, normalization concepts, and implementation codes** for learning **Database Management System** as part of **B.Tech CSE 4th Semester (Section - C)** studies. It is specifically maintained for **personal, experimental and educational use** by **[Arif](https://github.com/Md-Arif-Ul-Islam) & [Tanim](https://github.com/CodeWithTanim)   & adtU friends❤️‍🩹**.
 
 ---
 
