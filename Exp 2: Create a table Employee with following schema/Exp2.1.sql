@@ -1,6 +1,6 @@
 -- Create the EMPLOYEE table
 CREATE TABLE EMPLOYEE (
-    Emp_no INT PRIMARY KEY,
+    Emp_no INT,
     E_name VARCHAR(50),
     E_address VARCHAR(100),
     E_ph_no VARCHAR(15),
