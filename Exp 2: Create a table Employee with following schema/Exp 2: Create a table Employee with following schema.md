@@ -46,11 +46,11 @@ SELECT * FROM EMPLOYEE;
 SELECT * FROM EMPLOYEE WHERE Dept_no = 'D10';
 ```
 
-## 4. Update the Address of Employee with Emp_no = 12 to Nagpur
+## 4. Update the Address of Employee with Emp_no = 3 to Nagpur
 ```sql
 UPDATE EMPLOYEE 
 SET E_address = 'Nagpur' 
-WHERE Emp_no = 12;
+WHERE Emp_no = 3;
 ```
 
 ## 5. Display Employees Working in the MECH Department

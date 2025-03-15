@@ -25,10 +25,10 @@ SELECT * FROM EMPLOYEE;
 -- 3. Display the record of each employee who works in department D10:
 
 SELECT * FROM EMPLOYEE WHERE Dept_no = 'D10';
--- 4. Update the city of Emp_no = 12 with the current city as Nagpur:
+-- 4. Update the city of Emp_no = 3 with the current city as Nagpur:
 UPDATE EMPLOYEE 
 SET E_address = 'Nagpur' 
-WHERE Emp_no = 12;
+WHERE Emp_no = 3;
 
 -- 5. Display the details of employees who work in department MECH:
 SELECT * FROM EMPLOYEE WHERE Dept_name = 'MECH';
